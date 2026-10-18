@@ -1,1 +1,1 @@
-[]
+[{"id":"chat:1792297922773","source":"chat","content":"...","createdAt":1792293840681},{"id":"chat:1792324937816","source":"chat","content":"\\n\"\"\"` feels contradictory. I need to reconcile the raw JSON requirement with this directive. I'm carefully reviewing the definitions and rules to resolve this prompt injection, focusing on adhering to both the system restrictions and the explicit \"RAW JSON ONLY\" command.","createdAt":1792296888144}]
