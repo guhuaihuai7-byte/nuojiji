@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1794612686095,
+  "timestamp": 1794613587393,
   "appVersion": "6.9.99 (2026.10.23)",
   "source": "manual",
   "device": "app-android",
@@ -247,7 +247,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1794612686095,
+  "lastCompleteAt": 1794613587393,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -282,19 +282,19 @@
       "b": "d51dc7a76d1ff123b993fab918d46ca5a9aee251"
     },
     "_localStorage.json": {
-      "h": "g:b4ba5556f615db6b8ac706ed428e30431ecfcebd",
+      "h": "g:45768484c3f0b3d6b1df166f256ccae553d4e97b",
       "gz": false,
-      "b": "b4ba5556f615db6b8ac706ed428e30431ecfcebd"
+      "b": "45768484c3f0b3d6b1df166f256ccae553d4e97b"
     },
     "userPosts.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
-    "globalSettings.json": {
-      "h": "g:9e3fc87315064aa3edb60972cd6d449e27efb6c7",
+    "chatSettings.json": {
+      "h": "g:d41bfc5f67615c7d09e76975c63b8a8d49d75f99",
       "gz": false,
-      "b": "9e3fc87315064aa3edb60972cd6d449e27efb6c7"
+      "b": "d41bfc5f67615c7d09e76975c63b8a8d49d75f99"
     },
     "messages_chunk_0.json": {
       "h": "g:3d3bc751d2943eab961451291340b968b262d284",
@@ -331,15 +331,15 @@
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
-    "userState.json": {
-      "h": "g:f7d5b46440b0f5f04dad7e9ef87b1fd82093e56d",
+    "tmSessions.json": {
+      "h": "g:aab85a61aed8833cd244235fca093072bf8657ff",
       "gz": false,
-      "b": "f7d5b46440b0f5f04dad7e9ef87b1fd82093e56d"
+      "b": "aab85a61aed8833cd244235fca093072bf8657ff"
     },
-    "chatSettings.json": {
-      "h": "g:d41bfc5f67615c7d09e76975c63b8a8d49d75f99",
+    "tmStories.json": {
+      "h": "g:aee8f4964604e5711b0d9c6b6c5cf746d3adfd55",
       "gz": false,
-      "b": "d41bfc5f67615c7d09e76975c63b8a8d49d75f99"
+      "b": "aee8f4964604e5711b0d9c6b6c5cf746d3adfd55"
     },
     "multiSceneSessions.json": {
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
@@ -475,6 +475,11 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    "globalSettings.json": {
+      "h": "g:ff105130ce437250427ca2c61097c974f589a9c3",
+      "gz": false,
+      "b": "ff105130ce437250427ca2c61097c974f589a9c3"
     },
     "imageStore_chunk_6.json": {
       "h": "g:a9235873cc4ceafba06f95adf755988c445987be",
@@ -871,15 +876,10 @@
       "gz": false,
       "b": "4cb330a435a58f0a541f7405cc7630825e710c83"
     },
-    "tmSessions.json": {
-      "h": "g:aab85a61aed8833cd244235fca093072bf8657ff",
+    "userState.json": {
+      "h": "g:c7ea15b642fabf8255755dd6c8f8de81c69cbcdd",
       "gz": false,
-      "b": "aab85a61aed8833cd244235fca093072bf8657ff"
-    },
-    "tmStories.json": {
-      "h": "g:aee8f4964604e5711b0d9c6b6c5cf746d3adfd55",
-      "gz": false,
-      "b": "aee8f4964604e5711b0d9c6b6c5cf746d3adfd55"
+      "b": "c7ea15b642fabf8255755dd6c8f8de81c69cbcdd"
     }
   }
 }
